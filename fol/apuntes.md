@@ -1,0 +1,3 @@
+# apunts de fol
+
+aquí escrius les teves notes...
