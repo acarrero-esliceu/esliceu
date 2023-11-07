@@ -9,9 +9,9 @@ a continuación os voy a enseñar el horario de mi [apunts de fol](fol/apuntes.m
 
 ## llista compra
 1. comprar pizza
- 1. barbacoa
- 2. 4 formatges
- 3. jamon y formatge
+    1. barbacoa
+    2. 4 formatges
+    3. jamon y formatge
 2. comprar shampoo
 3. comprar fruites
 
