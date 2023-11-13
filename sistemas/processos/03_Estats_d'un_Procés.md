@@ -12,5 +12,4 @@ Quan un procés està en estat d'execució, significa que s'està executant en l
 Els processos poden ser bloquejats quan esperen algun esdeveniment, com ara una entrada/sortida, per continuar la seva execució.
 
 ## Transició d'estats
-![transició_processos]
-(transicio.png)
+![transició_processos](transicio.png)
