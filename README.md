@@ -3,7 +3,7 @@
 ## segundo apartado
 a continuación os voy a enseñar los apuntes de fol [apunts de fol](fol/apuntes.md)
 
-a continuación os voy a enseñar los apuntes de [sistemas] (sistemas/README.md)
+a continuación os voy a enseñar los apuntes de [sistemas](https://github.com/acarrero-esliceu/esliceu/blob/main/sistemas/README.md)
 ### tercer apartado
 #### cuarto apartado
 ##### quinto apartado
