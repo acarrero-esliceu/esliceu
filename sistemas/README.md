@@ -1,1 +1,1 @@
-aqui tens el enllaç als apunts de procesos [sistemas](sistemas/processos)
+aqui tens el enllaç als apunts de procesos [sistemas](processos)
