@@ -3,7 +3,7 @@
 ## segundo apartado
 a continuación os voy a enseñar los apuntes de fol [apunts de fol](fol/apuntes.md)
 
-a continuación os voy a enseñar los apuntes de [sistemas](sitemas/)
+a continuación os voy a enseñar los apuntes de [sistemas](sistemas/)
 ### tercer apartado
 #### cuarto apartado
 ##### quinto apartado
